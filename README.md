@@ -56,16 +56,16 @@
 ### 📊 GitHub & Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitverma677&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitverma677&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshitverma677&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harshitverma677&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitverma677&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com?user=Harshitverma677&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://leetcard.jacoblin.cool/Harshitverma677?theme=dark&font=source_code_pro&ext=activity" width="97%" />
+  <img src="https://leetcard.jacoblin.cool/vuvcVjbwmU?theme=dark&font=source_code_pro&ext=activity" width="97%" />
 </div>
 
 <br/>
@@ -79,7 +79,7 @@
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/Harshitverma677" target="_blank">
+  <a href="https://leetcode.com/u/vuvcVjbwmU" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/Harshitverma677" target="_blank">
