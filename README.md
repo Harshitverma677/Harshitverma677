@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Hi%20There,%20I'm%20Harshit%20Verma%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Harshitverma677">
-    <img src="https://komarev.com/ghpvc/?username=Harshitverma677&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</div>
-
 <br/>
 
 ### 👨‍💻 About Me
