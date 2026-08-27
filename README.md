@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Hi%20There,%20I'm%20Harshit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Hi%20There,%20I'm%20Harshit%20Verma%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -12,28 +12,35 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Undergrad Student** passionate about Full-Stack Development & Problem Solving.
-- ⚡ **Current Focus:** Building scalable mobile and web apps, Data Structures & Algorithms.
-- 🚀 **Projects:** Built [Leeto](https://github.com/Harshitverma677/leeto-app) — a live LeetCode team leaderboard & streak tracker.
-- 📫 **How to reach me:** `harshit@example.com`
+- 👤 **Name:** Harshit Verma
+- 💻 **Role:** Full-Stack Developer & Problem Solver
+- 🎓 **Education:** Undergrad Student passionate about Software Development & Engineering
+- ⚡ **Current Focus:** Data Structures & Algorithms, modern frontend architectures, and mobile app development
+- 📫 **Contact:** `harshit.v221105@gmail.com`
 
 <br/>
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <!-- Core Skills -->
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solver-FFA116?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="left">
-  <!-- Frameworks & Libraries -->
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="left">
+  <!-- Frameworks & Mobile -->
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
@@ -58,7 +65,7 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://leetcard.jacoblin.cool/vuvcVjbwmU?theme=dark&font=source_code_pro&ext=activity" width="97%" />
+  <img src="https://leetcard.jacoblin.cool/Harshitverma677?theme=dark&font=source_code_pro&ext=activity" width="97%" />
 </div>
 
 <br/>
@@ -66,6 +73,9 @@
 ### 🌐 Connect With Me
 
 <p align="left">
+  <a href="mailto:harshit.v221105@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
