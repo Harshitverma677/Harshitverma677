@@ -55,9 +55,11 @@
 
 ### 📊 GitHub & Coding Activity
 
+### 📊 GitHub & Coding Activity
+
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshitverma677&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harshitverma677&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=Harshitverma677&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=Harshitverma677&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
