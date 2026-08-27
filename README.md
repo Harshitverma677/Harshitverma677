@@ -53,7 +53,7 @@
 
 <br/>
 
-### 📊 GitHub & Coding Activity
+### 📊 Leetcode Activity
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://leetcard.jacoblin.cool/vuvcVjbwmU?theme=dark&font=source_code_pro&ext=activity" width="97%" />
