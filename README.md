@@ -12,7 +12,6 @@
 
 ### 👨‍💻 About Me
 
-- 👤 **Name:** Harshit Verma
 - 💻 **Role:** Full-Stack Developer & Problem Solver
 - 🎓 **Education:** Undergrad Student passionate about Software Development & Engineering
 - ⚡ **Current Focus:** Data Structures & Algorithms, modern frontend architectures, and mobile app development
