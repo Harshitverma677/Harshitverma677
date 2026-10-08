@@ -17,7 +17,7 @@
 
 <p align="left">
   <!-- Core Skills -->
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/App_Developer-007ACC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem_Solver-FFA116?style=for-the-badge&logoColor=white" />
 </p>
 
