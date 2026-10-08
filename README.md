@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 **Role:** Full-Stack Developer & Problem Solver
+- 💻 **Role:** App Developer & Problem Solver
 - 🎓 **Education:** Undergrad Student passionate about Software Development & Engineering
 - ⚡ **Current Focus:** Data Structures & Algorithms, modern frontend architectures, and mobile app development
 - 📫 **Contact:** `harshit.v221105@gmail.com`
