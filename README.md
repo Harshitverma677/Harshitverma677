@@ -29,6 +29,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,mongodb&theme=dark" />
 </p>
+<br/>
+
+<p>- Firebase - Mongodb -</p>
 
 <br/>
 
