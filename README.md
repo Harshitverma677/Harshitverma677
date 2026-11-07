@@ -13,39 +13,21 @@
 
 <br/>
 
-### 🛠️ Tech Stack & Skills
+### ⚡ Tech Stack
 
+#### Programming Languages
 <p align="left">
-  <!-- Core Skills -->
-  <img src="https://img.shields.io/badge/App_Developer-007ACC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem_Solver-FFA116?style=for-the-badge&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=javascript,cpp,html,css,dart&theme=dark" />
 </p>
 
+#### Development
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,githubactions,graphql&theme=dark" />
 </p>
 
+#### Databases
 <p align="left">
-  <!-- Frameworks & Mobile -->
-  <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Dart-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-<p align="left">
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
-
-<p align="left">
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb&theme=dark" />
 </p>
 
 <br/>
