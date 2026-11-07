@@ -17,7 +17,7 @@
 
 #### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,dart&theme=dark" />
 </p>
 
 #### Development
