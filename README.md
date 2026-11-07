@@ -17,12 +17,12 @@
 
 #### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,cpp,html,css,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,,dart&theme=dark" />
 </p>
 
 #### Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,git,github,githubactions,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,githubactions,vscode&theme=dark" />
 </p>
 
 #### Databases
